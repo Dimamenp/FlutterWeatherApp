@@ -1,0 +1,171 @@
+-- Merging decision tree log ---
+application
+INJECTED from C:\FlutterWeatherApp-master\android\app\src\main\AndroidManifest.xml:13:5-55:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\6d8ec35496b62e2c29247384fca0914b\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\6d8ec35496b62e2c29247384fca0914b\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\10d04c332ad6a909681b05b5f712024a\jetified-play-services-location-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\10d04c332ad6a909681b05b5f712024a\jetified-play-services-location-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\fc9c05afd0ac91a99043f00fc1323750\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\fc9c05afd0ac91a99043f00fc1323750\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\47de3bf7ba3675fc7706a6b01ab95d1c\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\47de3bf7ba3675fc7706a6b01ab95d1c\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\e7c3d010d1f1092c14ece7b651d010d4\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\e7c3d010d1f1092c14ece7b651d010d4\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\59813977a50cbd823b931709e6a8f4d7\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\59813977a50cbd823b931709e6a8f4d7\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.6.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\d5aca7305b0d7e9fda51f44e763b2700\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\d5aca7305b0d7e9fda51f44e763b2700\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\42dd24a552fb1ba1016913208ec5c752\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\42dd24a552fb1ba1016913208ec5c752\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\d5aca7305b0d7e9fda51f44e763b2700\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:name
+		INJECTED from C:\FlutterWeatherApp-master\android\app\src\main\AndroidManifest.xml
+manifest
+ADDED from C:\FlutterWeatherApp-master\android\app\src\main\AndroidManifest.xml:1:1-56:12
+INJECTED from C:\FlutterWeatherApp-master\android\app\src\main\AndroidManifest.xml:1:1-56:12
+INJECTED from C:\FlutterWeatherApp-master\android\app\src\main\AndroidManifest.xml:1:1-56:12
+INJECTED from C:\FlutterWeatherApp-master\android\app\src\main\AndroidManifest.xml:1:1-56:12
+MERGED from C:\FlutterWeatherApp-master\android\app\src\main\AndroidManifest.xml:1:1-56:12
+MERGED from [:geolocator] C:\FlutterWeatherApp-master\build\geolocator\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\5f1191f0cf040addd837c631ab4cc419\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\6d8ec35496b62e2c29247384fca0914b\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\10d04c332ad6a909681b05b5f712024a\jetified-play-services-location-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\fc9c05afd0ac91a99043f00fc1323750\jetified-play-services-base-17.0.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\47de3bf7ba3675fc7706a6b01ab95d1c\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\e7c3d010d1f1092c14ece7b651d010d4\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\59813977a50cbd823b931709e6a8f4d7\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\b32a8e8f4f82aa9593b4af0e160bbc6a\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\c0092259f8afbe655e9916b22213d0ba\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\dd5ae259c47ee72c9db1193b6b23b897\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\57a89790e0bbe1e441439045477ba423\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\53a7edb1031493ddc4a1ca998a052f61\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\d5aca7305b0d7e9fda51f44e763b2700\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\56542252b4f2f80a56b12c57ebd0fe7a\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\7f402c44bca07c17cdf40949e8e3a2a7\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\d182b53e386f038add29b94812f389a0\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\6328a7b3a99f0240c5d7215b53cbb86c\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\c0bb0e95387b67059c6d62242b34b487\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\eb2761d50d559603a6b663a8f37bf62f\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\42dd24a552fb1ba1016913208ec5c752\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\c0f3726c0e22f2cfaf5347727b151585\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\0be2cc75f4578896e47bec2c00ac1728\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\FlutterWeatherApp-master\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\FlutterWeatherApp-master\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\FlutterWeatherApp-master\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from C:\FlutterWeatherApp-master\android\app\src\main\AndroidManifest.xml:2:5-37
+		INJECTED from C:\FlutterWeatherApp-master\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\FlutterWeatherApp-master\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\FlutterWeatherApp-master\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\FlutterWeatherApp-master\android\app\src\main\AndroidManifest.xml:1:1-56:12
+		INJECTED from C:\FlutterWeatherApp-master\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\FlutterWeatherApp-master\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\FlutterWeatherApp-master\android\app\src\main\AndroidManifest.xml:1:1-56:12
+		INJECTED from C:\FlutterWeatherApp-master\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\FlutterWeatherApp-master\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\FlutterWeatherApp-master\android\app\src\main\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from C:\FlutterWeatherApp-master\android\app\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\FlutterWeatherApp-master\android\app\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from C:\FlutterWeatherApp-master\android\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.ACCESS_BACKGROUND_LOCATION
+ADDED from C:\FlutterWeatherApp-master\android\app\src\main\AndroidManifest.xml:10:5-85
+	android:name
+		ADDED from C:\FlutterWeatherApp-master\android\app\src\main\AndroidManifest.xml:10:22-82
+uses-permission#android.permission.INTERNET
+ADDED from C:\FlutterWeatherApp-master\android\app\src\main\AndroidManifest.xml:11:5-66
+MERGED from C:\FlutterWeatherApp-master\android\app\src\main\AndroidManifest.xml:11:5-66
+MERGED from C:\FlutterWeatherApp-master\android\app\src\main\AndroidManifest.xml:11:5-66
+	android:name
+		ADDED from C:\FlutterWeatherApp-master\android\app\src\main\AndroidManifest.xml:11:22-64
+uses-sdk
+INJECTED from C:\FlutterWeatherApp-master\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\FlutterWeatherApp-master\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\FlutterWeatherApp-master\android\app\src\main\AndroidManifest.xml
+MERGED from [:geolocator] C:\FlutterWeatherApp-master\build\geolocator\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:geolocator] C:\FlutterWeatherApp-master\build\geolocator\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\5f1191f0cf040addd837c631ab4cc419\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\5f1191f0cf040addd837c631ab4cc419\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\6d8ec35496b62e2c29247384fca0914b\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\6d8ec35496b62e2c29247384fca0914b\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\10d04c332ad6a909681b05b5f712024a\jetified-play-services-location-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\10d04c332ad6a909681b05b5f712024a\jetified-play-services-location-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\fc9c05afd0ac91a99043f00fc1323750\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\fc9c05afd0ac91a99043f00fc1323750\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\47de3bf7ba3675fc7706a6b01ab95d1c\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\47de3bf7ba3675fc7706a6b01ab95d1c\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\e7c3d010d1f1092c14ece7b651d010d4\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\e7c3d010d1f1092c14ece7b651d010d4\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\59813977a50cbd823b931709e6a8f4d7\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\59813977a50cbd823b931709e6a8f4d7\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\b32a8e8f4f82aa9593b4af0e160bbc6a\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\b32a8e8f4f82aa9593b4af0e160bbc6a\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\c0092259f8afbe655e9916b22213d0ba\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\c0092259f8afbe655e9916b22213d0ba\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\dd5ae259c47ee72c9db1193b6b23b897\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\dd5ae259c47ee72c9db1193b6b23b897\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\57a89790e0bbe1e441439045477ba423\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\57a89790e0bbe1e441439045477ba423\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\53a7edb1031493ddc4a1ca998a052f61\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\53a7edb1031493ddc4a1ca998a052f61\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\d5aca7305b0d7e9fda51f44e763b2700\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\d5aca7305b0d7e9fda51f44e763b2700\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\56542252b4f2f80a56b12c57ebd0fe7a\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\56542252b4f2f80a56b12c57ebd0fe7a\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\7f402c44bca07c17cdf40949e8e3a2a7\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\7f402c44bca07c17cdf40949e8e3a2a7\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\d182b53e386f038add29b94812f389a0\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\d182b53e386f038add29b94812f389a0\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\6328a7b3a99f0240c5d7215b53cbb86c\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\6328a7b3a99f0240c5d7215b53cbb86c\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\c0bb0e95387b67059c6d62242b34b487\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\c0bb0e95387b67059c6d62242b34b487\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\eb2761d50d559603a6b663a8f37bf62f\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\eb2761d50d559603a6b663a8f37bf62f\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\42dd24a552fb1ba1016913208ec5c752\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\42dd24a552fb1ba1016913208ec5c752\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\c0f3726c0e22f2cfaf5347727b151585\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\c0f3726c0e22f2cfaf5347727b151585\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\0be2cc75f4578896e47bec2c00ac1728\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\0be2cc75f4578896e47bec2c00ac1728\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\FlutterWeatherApp-master\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\FlutterWeatherApp-master\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\FlutterWeatherApp-master\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\FlutterWeatherApp-master\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\FlutterWeatherApp-master\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\FlutterWeatherApp-master\android\app\src\debug\AndroidManifest.xml
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\6d8ec35496b62e2c29247384fca0914b\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\6d8ec35496b62e2c29247384fca0914b\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\6d8ec35496b62e2c29247384fca0914b\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\6d8ec35496b62e2c29247384fca0914b\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\6d8ec35496b62e2c29247384fca0914b\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\6d8ec35496b62e2c29247384fca0914b\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\fc9c05afd0ac91a99043f00fc1323750\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\fc9c05afd0ac91a99043f00fc1323750\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\fc9c05afd0ac91a99043f00fc1323750\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\fc9c05afd0ac91a99043f00fc1323750\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\59813977a50cbd823b931709e6a8f4d7\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\59813977a50cbd823b931709e6a8f4d7\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\dimam\.gradle\caches\transforms-2\files-2.1\59813977a50cbd823b931709e6a8f4d7\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
